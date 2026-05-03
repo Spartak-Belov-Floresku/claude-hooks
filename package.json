@@ -1,7 +1,7 @@
 {
   "name": "queries",
   "version": "1.0.0",
-  "description": "",
+  "description": "A project for managing Claude AI queries with SQLite database integration",
   "main": "index.js",
   "scripts": {
     "setup": "npm install && node ./scripts/init-claude.js",
